@@ -1,0 +1,48 @@
+Yozgat Çamlığı Milli Parkı,Yozgat,517,1958
+Karatepe - Aslantaş Milli Parkı,Osmaniye,4143,1958
+Soğuksu Milli Parkı,Ankara,1186,1959
+Kuşcenneti Milli Parkı,Balıkesir,17058,1959
+Uludağ Milli Parkı,Bursa,13024,1961
+Yedigöller Milli Parkı,Bolu,1623,1965
+Dilek Y. – B. Menderes D. Milli Parkı,Aydın,27598,1966
+Spil Dağı Milli Parkı,Manisa,6801,1968
+Kızıldağ Milli Parkı,Isparta,80200,1969
+Güllük Dağı - Termessos Milli Parkı,Antalya,6700,1970
+Kovada Gölü Milli Parkı,Isparta,6551,1970
+Munzur Vadisi Milli Parkı,Tunceli,42674,1971
+Beydağları Sahil Milli Parkı,Antalya,31166,1972
+Köprülü Kanyon Milli Parkı,Antalya,47473,1973
+Ilgaz Dağı Milli Parkı,Kastamonu,1118,1976
+Başkomutan Tarihi Milli Parkı,Afyonkarahisar,34834,1981
+Altındere Vadisi Milli Parkı,Trabzon,4468,1987
+Boğazköy – Alacahöyük Milli Parkı,Çorum,2600,1988
+Nemrut Dağı Milli Parkı,Adıyaman,13827,1988
+Beyşehir Gölü Milli Parkı,Konya,82157,1993
+Kazdağı Milli Parkı,Balıkesir,20935,1994
+Altınbeşik Mağarası Milli Parkı,Antalya,1147,1994
+Hatila Vadisi Milli Parkı,Artvin,16944,1994
+Karagöl – Sahara Milli Parkı,Artvin,3251,1994
+Kaçkar Dağları Milli Parkı,Rize,52970,1994
+Aladağlar Milli Parkı,Niğde,55064,1995
+Marmaris Milli Parkı,Muğla,29206,1996
+Saklıkent Milli Parkı,Muğla,1643,1996
+Troya Tarihi Milli Parkı,Çanakkale,13517,1996
+Honaz Dağı Milli Parkı,Denizli,9429,1998
+Küre Dağları Milli Parkı,Kastamonu,37753,2000
+Sarıkamış-Allahuekber Dağları Milli Parkı,Kars,22520,2004
+Ağrı Dağı Milli Parkı,Ağrı,88015,2004
+Gala Gölü Milli Parkı,Edirne,5923,2005
+Sultan Sazlığı Milli Parkı,Kayseri,24358,2006
+Tek Tek Dağları Milli Parkı,Şanlıurfa,19335,2007
+İğneada Longoz Ormanları Milli Parkı,Kırklareli,3155,2007
+Yumurtalık Lagünü Milli Parkı,Adana,16980,2008
+Nene Hatun Tarihi Milli Parkı,Erzurum,387,2009
+Sakarya Meydan Muharebesi Tarihi Milli Parkı,Ankara,13850,2015
+Kop Dağı Müdafaası Tarihi Milli Parkı,Bayburt,6335,2016
+Malazgirt Meydan Muharebesi Tarihi Milli Parkı,Muş,238,2018
+İstiklal Yolu Tarihi Milli Parkı,Kastamonu,236,2018
+Botan Vadisi Milli Parkı,Siirt,11358,2019
+Sarıçalı Dağı Milli Parkı,Ankara,1024,2021
+Derebucak Çamlık Mağaraları Milli Parkı,Konya,1147,2022
+Abant Gölü Milli Parkı,Bolu,1262,2022
+Hakkari Cilo ve Sat Dağları Milli Parkı,Hakkari,27500,2020

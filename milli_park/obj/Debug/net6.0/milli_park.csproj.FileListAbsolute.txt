@@ -1,0 +1,15 @@
+C:\Users\adila\source\repos\milli_park\milli_park\obj\Debug\net6.0\milli_park.csproj.AssemblyReference.cache
+C:\Users\adila\source\repos\milli_park\milli_park\obj\Debug\net6.0\milli_park.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adila\source\repos\milli_park\milli_park\obj\Debug\net6.0\milli_park.AssemblyInfoInputs.cache
+C:\Users\adila\source\repos\milli_park\milli_park\obj\Debug\net6.0\milli_park.AssemblyInfo.cs
+C:\Users\adila\source\repos\milli_park\milli_park\obj\Debug\net6.0\milli_park.csproj.CoreCompileInputs.cache
+C:\Users\adila\source\repos\milli_park\milli_park\bin\Debug\net6.0\milli_park.exe
+C:\Users\adila\source\repos\milli_park\milli_park\bin\Debug\net6.0\milli_park.deps.json
+C:\Users\adila\source\repos\milli_park\milli_park\bin\Debug\net6.0\milli_park.runtimeconfig.json
+C:\Users\adila\source\repos\milli_park\milli_park\bin\Debug\net6.0\milli_park.dll
+C:\Users\adila\source\repos\milli_park\milli_park\bin\Debug\net6.0\milli_park.pdb
+C:\Users\adila\source\repos\milli_park\milli_park\obj\Debug\net6.0\milli_park.dll
+C:\Users\adila\source\repos\milli_park\milli_park\obj\Debug\net6.0\refint\milli_park.dll
+C:\Users\adila\source\repos\milli_park\milli_park\obj\Debug\net6.0\milli_park.pdb
+C:\Users\adila\source\repos\milli_park\milli_park\obj\Debug\net6.0\milli_park.genruntimeconfig.cache
+C:\Users\adila\source\repos\milli_park\milli_park\obj\Debug\net6.0\ref\milli_park.dll
